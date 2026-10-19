@@ -7,13 +7,13 @@
 
 Building modern, responsive, and scalable web applications.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+%7C+Next.js+Developer;Turning+Ideas+Into+Web+Experiences;Always+Learning+%26+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;React.js+%7C+Next.js+Developer;Turning+Ideas+Into+Web+Experiences;Always+Learning+%26+Building" alt="Typing SVG"/>
 
 <p>
-  <a href="https://github.com/vineet-insphere">
-    <img src="https://img.shields.io/badge/GitHub-vineet--insphere-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=vineet-insphere&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="https://github.com/vineet-insphere">
+<img src="https://img.shields.io/badge/GitHub-vineet--insphere-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=vineet-insphere&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
 </div>
@@ -25,7 +25,7 @@ Building modern, responsive, and scalable web applications.
 Hi, I'm **Vineet Singh**, a Frontend Developer passionate about building user-friendly, responsive, and high-performance web applications.
 
 - 💻 Focused on React.js, Next.js, JavaScript, and modern frontend development.
-- 🚀 Experienced in developing business applications, admin dashboards, and e-commerce interfaces.
+- 🚀 Work on business applications, admin dashboards, and e-commerce interfaces.
 - 🔗 Interested in API integration, reusable components, and clean code architecture.
 - ⚡ Always exploring better ways to improve performance and user experience.
 - 🎯 Believe in continuous learning, consistent development, and delivering quality work.
@@ -40,11 +40,11 @@ Hi, I'm **Vineet Singh**, a Frontend Developer passionate about building user-fr
 
 ### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,sass" alt="Frontend technologies"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,sass" alt="Frontend Technologies"/>
 
 ### Backend, Database & Tools
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,git,github,vscode,postman,linux,npm" alt="Development tools and technologies"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,git,github,vscode,postman,linux,npm" alt="Development Tools"/>
 
 </div>
 
@@ -54,13 +54,13 @@ Hi, I'm **Vineet Singh**, a Frontend Developer passionate about building user-fr
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛒 Jindal Panther Web App
+<h3>🛒 Jindal Panther Web App</h3>
 
-A web application project focused on e-commerce workflows and frontend development.
+E-commerce web application development and business workflow integration.
 
-**Focus areas:**
+**Focus areas**
 - Responsive user interfaces
 - API integration
 - Order and delivery workflows
@@ -69,13 +69,13 @@ A web application project focused on e-commerce workflows and frontend developme
 <a href="https://github.com/vineet-insphere/jindal-panther-web-app">View Repository →</a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏢 JWI Admin
+<h3>🏢 JWI Admin</h3>
 
-An administration interface focused on managing application content and administrative workflows.
+Administration interface focused on managing application content and administrative workflows.
 
-**Focus areas:**
+**Focus areas**
 - Admin dashboard development
 - UI consistency and usability
 - Frontend implementation
@@ -86,13 +86,13 @@ An administration interface focused on managing application content and administ
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ✉️ Mailer Service
+<h3>✉️ Mailer Service</h3>
 
-A mailer service project developed to support email-related workflows.
+A mailer service project built to support email-related workflows.
 
-**Focus areas:**
+**Focus areas**
 - Application development
 - Backend integration
 - Environment configuration
@@ -101,13 +101,13 @@ A mailer service project developed to support email-related workflows.
 <a href="https://github.com/vineet-insphere/mailer-service">View Repository →</a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔗 QR Redirect Tool
+<h3>🔗 QR Redirect Tool</h3>
 
-A utility project for QR-related redirection workflows.
+A utility project focused on QR-related redirection workflows.
 
-**Focus areas:**
+**Focus areas**
 - Redirect handling
 - Web application development
 - Practical utility features
@@ -121,38 +121,82 @@ A utility project for QR-related redirection workflows.
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub at a Glance
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=vineet-insphere&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<table>
+<tr>
+<td align="center" width="50%">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineet-insphere&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vineet-insphere&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true" height="180" alt="GitHub Statistics"/>
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineet-insphere&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" height="180" alt="Most Used Languages"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=vineet-insphere&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=vineet-insphere&hide_border=true&background=0D1117&ring=58A6FF&fire=FF9D5C&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" width="80%" alt="GitHub Contribution Streak"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+
+---
+
+## 🗓️ Contribution Calendar
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vineet-insphere&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%"/>
+<img src="https://ghchart.rshah.org/58A6FF/vineet-insphere" width="100%" alt="Vineet Singh's GitHub Contribution Calendar"/>
+
+<br/>
+
+**Every contribution counts. Keep building, keep improving.**
 
 </div>
+
 
 ---
 
 ## 🎯 Current Focus
 
-- Building scalable applications with React.js and Next.js.
-- Improving frontend performance and code quality.
-- Creating reusable UI components and maintainable architectures.
-- Strengthening full-stack development and deployment skills.
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### ⚛️ Frontend
+
+React.js, Next.js, responsive UI, and reusable components.
+
+</td>
+<td align="center" width="33%">
+
+### ⚡ Performance
+
+Optimized rendering, maintainable code, and better user experience.
+
+</td>
+<td align="center" width="33%">
+
+### 🚀 Growth
+
+API integration, deployment, and continuous learning.
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -161,13 +205,13 @@ A utility project for QR-related redirection workflows.
 <div align="center">
 
 <a href="https://github.com/vineet-insphere">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-**Thanks for visiting my profile!**
+### 💡 Consistency Builds Great Software
 
-*Always building. Always learning. Always improving.*
+**Always building. Always learning. Always improving.**
 
 </div>
